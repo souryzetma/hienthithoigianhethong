@@ -1,0 +1,14 @@
+E:\hienthithoigianhethong\bin\Debug\net8.0\hienthithoigianhethong.exe
+E:\hienthithoigianhethong\bin\Debug\net8.0\hienthithoigianhethong.deps.json
+E:\hienthithoigianhethong\bin\Debug\net8.0\hienthithoigianhethong.runtimeconfig.json
+E:\hienthithoigianhethong\bin\Debug\net8.0\hienthithoigianhethong.dll
+E:\hienthithoigianhethong\bin\Debug\net8.0\hienthithoigianhethong.pdb
+E:\hienthithoigianhethong\obj\Debug\net8.0\hienthithoigianhethong.GeneratedMSBuildEditorConfig.editorconfig
+E:\hienthithoigianhethong\obj\Debug\net8.0\hienthithoigianhethong.AssemblyInfoInputs.cache
+E:\hienthithoigianhethong\obj\Debug\net8.0\hienthithoigianhethong.AssemblyInfo.cs
+E:\hienthithoigianhethong\obj\Debug\net8.0\hienthithoigianhethong.csproj.CoreCompileInputs.cache
+E:\hienthithoigianhethong\obj\Debug\net8.0\hienthithoigianhethong.dll
+E:\hienthithoigianhethong\obj\Debug\net8.0\refint\hienthithoigianhethong.dll
+E:\hienthithoigianhethong\obj\Debug\net8.0\hienthithoigianhethong.pdb
+E:\hienthithoigianhethong\obj\Debug\net8.0\hienthithoigianhethong.genruntimeconfig.cache
+E:\hienthithoigianhethong\obj\Debug\net8.0\ref\hienthithoigianhethong.dll
